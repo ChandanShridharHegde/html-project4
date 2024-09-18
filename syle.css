@@ -1,0 +1,103 @@
+h1{
+    color: #191970;
+
+
+}
+.one{
+   color: #663399;
+   
+    text-indent:50px ;
+    font-weight: bold;
+    font-size: large;
+
+   
+   
+}
+img{
+    float: right;
+    border: 5px solid black;
+}
+h2{
+    color: #0000CD;
+    
+}
+h3{
+    color:#8B4513;
+    text-align: center;
+}
+.two{
+    color:#663399; 
+    font-size: large;
+}
+.ab{
+    color: #663399;
+    font-size: large;
+}
+.city{
+    color: #663399;
+    font-size: large;
+}
+.oreo{
+    color:#663399; 
+    font-size: large;
+}
+.red{
+  color:  #663399;
+  font-size: large;
+}
+.first{
+    color:#663399; 
+    font-size: large;
+}
+.xyz{
+    color:#663399;
+    font-size: large; 
+}
+.harappa{
+   color: #663399;
+   font-size: large;
+}
+.Mohenjo-daro{
+    color:#663399;
+    font-size: large;
+}
+#a123{
+   color: #663399;
+   font-size: large;
+
+}
+#a765{
+    color:#663399;
+    font-size: large;
+}
+span{
+    color: red;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.frame-container {
+    width: 80%;
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    
+    
+}
+
+
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; 
+    height: 0;
+    overflow: hidden;
+}
+
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
